@@ -25,7 +25,6 @@ endin
  
 f 1 0 4096 10 1 
 
-
 //Page 17
 //Treble Clef //1 beat = 1 sec
 i1 0 3 8.09 //A
